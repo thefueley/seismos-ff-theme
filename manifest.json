@@ -4,8 +4,9 @@
   "name": "SEISMOS",
   "theme": {
     "images": {
+      "theme_frame": "images/black.svg",
       "additional_backgrounds": [
-        "images/bg.svg"
+        "images/color.svg"
       ]
     },
     "properties": {
